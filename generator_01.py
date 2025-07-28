@@ -19,3 +19,14 @@ numbers_2 = generate_numbers_2(10)
 print(numbers_1)
 print(numbers_2)
 
+# gen1 = (i**2 for i in [1,2,3,4,5])
+
+# # (i**2 for i in numbers)
+
+
+# def make_numbers():
+#     for i in [1,2,3,4,5]:
+#         yield i
+
+# gen2 = make_numbers()
+
